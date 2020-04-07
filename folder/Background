@@ -1,0 +1,11 @@
+The idea is to build an application that is able to obtain the color of any and every
+image given as input. The project involves using panda to help the application
+control and manipulate the data to help in the color detection. An important use of
+panda in this project is to aid with the handling of the large CSV files and
+manipulating the contents received by the application to be able to obtain the
+intended result. The human eyes and brain work together to convert the light to
+color and then the brain makes an observation as to what color the light is. The
+brain is able to map the certain lights with their color names because from
+childhood the brain has been trying to map light colors to light names. The
+computer doesn’t have that luxury of growing up so we will provide the
+application with color dataset.
