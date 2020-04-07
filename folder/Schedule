@@ -1,0 +1,46 @@
+Week of 2nd Feb
+Daniel: Work on the functionality for obtaining user image input.
+Henry: Obtain the dataset that will be used to represent the colors.
+Phillip: Develop a mouse callback function.
+
+Week of 9th Feb
+Daniel: Work on the functionality for obtaining user image input.
+Henry: Test cases for the mouse callback function.
+Phillip: Develop the functionality for reading CSV files with the help of pandas.
+
+Week of 23th Feb
+Daniel: Test cases for the function developed.
+Henry: Test cases for the function on obtaining user image input.
+Phillip: Develop a draw function.
+
+Week of 1st March
+Daniel: Test cases for the function of reading CSV files.
+Henry: Work on the draw function.
+Phillip: Develop the functionality for reading CSV files with the help of pandas.
+
+Week of 8th March
+Daniel Develop a function that displays the image on the window.
+Henry: Develop a function to obtain the distance to get the color name.
+Phillip: Develop a function to obtain the distance to get the color name.
+
+Week of 15th March
+Daniel Develop a UML diagram.
+Henry: Test case for displaying image on the window.
+Phillip: Develop test cases for the function used to obtain the distance to get the
+color name.
+
+Week of 22nd March
+Daniel: Develop the functionality for a mouse callback event on a window.
+Henry: Test Case for displaying image on the window.
+Phillip: Develop test cases for the function used to obtain the distance to get the
+color name.
+
+Week of 30th March
+Daniel: Documentation on the functions Daniel developed.
+Henry: Test cases for the mouse callback function.
+Phillip: Documentation on the functions Daniel developed.
+
+Week of 5th April
+Daniel: Documentation on the functions Daniel developed.
+Henry: Documentation on the functions Henry developed.
+Phillip: Documentation on the functions Phillip developed
