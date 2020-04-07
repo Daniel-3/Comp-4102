@@ -1,0 +1,2 @@
+The challenge associated with this project involves identifying the colors from the data file that contains the color names and values and evaluating the distance from each color and finding the shortest one. 
+A color can be defined in 16.5 million ways. The difficulty is to be able to identify any of these colors in any of the ways they are represented.
